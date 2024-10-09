@@ -1,0 +1,12 @@
+How many days has user been late at work in one week > 2
+if user has been late more that 2 days at work
+  tell user "you need to stop being late at work"
+
+Do you live far from work | yes
+if user lives far from work 
+  tell user "you need to wake up early"
+
+Did user get into trouble for being late at work | yes
+if user does not want to get in trouble at work
+  tell user "You need really need to get to work on time"
+
